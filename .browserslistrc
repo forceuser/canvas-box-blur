@@ -1,0 +1,15 @@
+# engines support
+
+[legacy]
+chrome >= 49
+firefox >= 18
+edge >= 12
+opera >= 36
+safari >= 10
+node 6
+
+[modern]
+last 2 chrome versions
+last 2 firefox versions
+last 2 safari versions
+maintained node versions
